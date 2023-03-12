@@ -1,42 +1,42 @@
-## 免责声明
+## Disclaimer
 
-1. 本教程可以理解为个人知识笔记，仅用于学习使用，不做商业用途；
-2. 部分内容参考了其他博主的创作，涉及引用时会附上原文链接，如有侵权，欢迎指出。
+1. This tutorial can be understood as a personal knowledge note, which is only for learning and not for commercial use;
+2. Part of the content refers to the creations of other bloggers, and the original text link will be attached when the reference is involved. If there is any infringement, please point it out.
 
 
 
-## 项目概述
+## Project Overview
 
-欢迎👏🏻加入web3世界，该教程专注于EVM链Dapp全栈开发，通过学习，你可以掌握以下知识点：
+Welcome 👏🏻 to join the web3 world. This tutorial focuses on the full-stack development of EVM chain Dapp. Through learning, you can master the following knowledge points:
 
-1. 智能合约编写：介绍solidity基础语法、高级应用、合约安全等
-2. 第三方工具：框架、安全合约库openzeppelin、基建服务Moralis、Chainlink、tenderly等
-3. 主流web3库：web3.js、ethers.js
-4. 链下工具：subgraph、扫块服务等
-5. 主流协议：uniswap、compound、aave、staking、nft等
-6. 必要的前端知识：react
-7. [项目实战](https://solidity-expert-worldcup.vercel.app/)
+1. Smart contract writing: introduce solidity basic syntax, advanced applications, contract security, etc.
+2. Third-party tools: framework, security contract library openzeppelin, infrastructure services Moralis, Chainlink, tenderly, etc.
+3. Mainstream web3 library: web3.js, ethers.js
+4. Off-chain tools: subgraph, block scanning service, etc.
+5. Mainstream protocols: uniswap, compound, aave, staking, nft, etc.
+6. Necessary front-end knowledge: react
+7. [Project Combat](https://solidity-expert-worldcup.vercel.app/)
 
-本教程为GitHub开源项目：https://github.com/dukedaily/solidity-expert  请点亮star，谢谢您的支持！
+This tutorial is an open source project on GitHub: https://github.com/dukedaily/solidity-expert Please light up the star, thank you for your support!
 
 ![image-20221104075923978](assets/image-20221104075923978.png)
 
-## 学习资源
+## Learning Resources
 
-- gitbook：  [点击阅读](https://dukedaily.github.io/solidity-expert/)
-- 视频教程：[油管](https://www.youtube.com/channel/UCSc6tGnLIFvVMXs-ilDyb4A)、[B站](https://space.bilibili.com/102710441/channel/seriesdetail?sid=2537685&ctype=0)
+- gitbook: [Click to read](https://dukedaily.github.io/solidity-expert/)
+- Video tutorial: [Youtube](https://www.youtube.com/channel/UCSc6tGnLIFvVMXs-ilDyb4A), [Station B](https://space.bilibili.com/102710441/channel/seriesdetail?sid=2537685&ctype= 0)
 
-## 关于作者
+## About the author
 
-国内第一批区块链布道者；2017年开始专注于区块链教育(btc, eth, fabric)，目前base新加坡，专注海外defi,dex,元宇宙等业务方向。
+The first batch of blockchain evangelists in China; started to focus on blockchain education (btc, eth, fabric) in 2017, currently based in Singapore, focusing on overseas defi, dex, metaverse and other business directions.
 
-- 微信：Adugii
-- 公众号：[阿杜在新加坡](https://mp.weixin.qq.com/s/kjBUa2JHCbOI_2UKmZxjJQ)
-- Twitter：[dukedu2022](https://twitter.com/dukedu2022)
-- 加入电报：https://t.me/+bEy-E0l4KHhlODRl
-- **个人网站**：https://dukedu.notion.site/
+- Wechat: Adugii
+- Public account: [Adu in Singapore](https://mp.weixin.qq.com/s/kjBUa2JHCbOI_2UKmZxjJQ)
+- Twitter: [dukedu2022] (https://twitter.com/dukedu2022)
+- Join Telegram: https://t.me/+bEy-E0l4KHhlODRl
+- **Personal website**: https://dukedu.notion.site/
 
 
-## 马上入群
+## Join the group now
 
 <img src="assets/image-20220810134215759.png" alt="image-20220810134215759" width="200" height="230" />
